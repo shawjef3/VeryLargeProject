@@ -1,0 +1,12 @@
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+        <modelVersion>4.0.0</modelVersion>
+
+        <parent>
+          <groupId>com.rocketfuel</groupId><artifactId>aggregate</artifactId><version>9.0.0-SNAPSHOT</version>
+        </parent>
+
+        <groupId>com.rocketfuel</groupId>
+        <artifactId>812</artifactId>
+        <version>9.0.0-SNAPSHOT</version>
+
+      </project>
